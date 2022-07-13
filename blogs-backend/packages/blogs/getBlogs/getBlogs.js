@@ -18,18 +18,19 @@ const Blog = mongoose.model('blogs', blogsSchema);
 
 module.exports.main = async (args) => {
     try {
-        if(Object.keys(args).length !==0){
-            const blog = await Blog.create(args);
-            console.log(blog);
+        const blogs = await Blog.find();
+        if(blogs.length){
             return {
-                statusCode : 201,
-                body: {blog, args}
+                statusCode: 200,
+                body : blogs
             };
         }else{
             return {
-                status: 204
+                statusCode: 404,
+                body: {message: 'Blogs not found'}
             }
         }
+        
     }catch (err) {
         console.log(err);
         return{
