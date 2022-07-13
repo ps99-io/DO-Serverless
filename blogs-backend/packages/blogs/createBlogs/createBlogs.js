@@ -23,7 +23,7 @@ module.exports.main = async (args) => {
             console.log(blog);
             return {
                 statusCode : 201,
-                body: {blog, args}
+                body: blog
             };
         }else{
             return {
