@@ -9,7 +9,10 @@ packages:
           timeout: 5000
           memory: 256
       - name: getBlogs
-        # main: getBlogs
+        limits:
+          timeout: 5000
+          memory: 256
+      - name: updateBlogs
         limits:
           timeout: 5000
           memory: 256
