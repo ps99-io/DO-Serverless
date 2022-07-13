@@ -16,6 +16,10 @@ packages:
         limits:
           timeout: 5000
           memory: 256
+      - name: deleteBlogs
+        limits:
+          timeout: 5000
+          memory: 256
     # environment: {}
     # parameters: {}
     # annotations: {}
