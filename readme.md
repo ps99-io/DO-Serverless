@@ -11,7 +11,7 @@
 ## What is DigitalOcean Functions❓
 > DigitalOcean Functions allow you to deploy pieces of functionality that can perform the same tasks as a traditional API without the requirement of setting up a server to manage the requests. For example, you can write a traditional Node.js function that returns a list of products from a database and then deploy that function to the Functions service. Once deployed, users and applications can retrieve data from the database by making an HTTP request to the function’s URL.
 
-## Perks of Serverless architecture 
+## 🎖 Perks of Serverless architecture 🎖
 Using serverless functions can make applications more lightweight and secure. Because you only pay for DigitalOcean Functions when a function runs, serverless architecture is often less expensive for apps with variable levels of traffic.
 
 In this tutorial series, you will deploy a Blogs website that uses DigitalOcean Functions to retrieve and post data to a [MongoDB database](https://github.com/docs.digitalocean.com/products/databases/mongodb/)
@@ -19,9 +19,9 @@ In this tutorial series, you will deploy a Blogs website that uses DigitalOcean 
 ## 🗒 Content
 The series consists of three parts:
 
-- 1️⃣: Deploy a MongoDB database from the DigitalOcean Control Panel.
-- 2️⃣: Set up serverless functions and connect them to the database.
-- 3️⃣: Connect the serverless functions to the web app and deploy the site to App Platform.
+- 1️⃣ : Deploy a MongoDB database from the DigitalOcean Control Panel.
+- 2️⃣ : Set up serverless functions and connect them to the database.
+- 3️⃣ : Connect the serverless functions to the web app and deploy the site to App Platform.
 
 ## About the Application
 The application in this tutorial is an Blogs application with the following functionality:
