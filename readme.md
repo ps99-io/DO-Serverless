@@ -2,7 +2,7 @@
 
 <h1 align="center" id="CB-Swap"> Blog application </h1>
 
-<h2 align="center"> Build application using digital ocean Faas</h2>
+<h2 align="center"> Build application using Digital Ocean Functions</h2>
 
 
 ## What is Serverless or Faas❓
@@ -39,14 +39,14 @@ What tech it uses needs to be written over here
 
 <h2 align="center">Part 1️ - Deploy a MongoDB Database cluster in Digital Ocean</h2>
 
-> In this part of the tutorial, you will:
+In this part of the tutorial, you will:
 
 - Create a MongoDB database cluster and add a database to it.
 - Connect to the database cluster.
 
 ## Prerequisites
 
-> To complete this part of the tutorial, you need:
+To complete this part of the tutorial, you need:
 - To install the latest version of [MongoDB Compass](https://www.mongodb.com/docs/compass/current/install/) onto your local machine. MongoDB Compass is a GUI for querying, aggregating, and analyzing MongoDB data in a visual environment.
 
 ## Step 1️⃣: Deploy and Set Up a MongoDB Database Cluster
