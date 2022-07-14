@@ -130,7 +130,7 @@ Next, you need to add Node.js functions to the app that connect to the MongoDB d
 
 To add functions to your app, you need to create a [special directory](https://docs.digitalocean.com/products/functions/how-to/structure-projects/) called ```packages``` in the backend app’s root directory in our case ```blogs-backend```. The ```packages``` directory is where you add and organize your functions, and it requires a specific structure to ensure that your functions deploy correctly.
 
-Here how it should looks once you create the structure :
+Here how it should look once you create the structure :
 
 ```sh
 blogs-backend/
