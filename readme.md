@@ -132,18 +132,18 @@ Here how it should looks once you create the structure :
 
 ```sh
 blogs-backend/
-|---packages
+│---packages
 │   └── blogs
 │       ├── createBlogs
 │       │   ├── createBlogs.js
 │       │   ├── db.js
 │       │   └── package.json
-|       |
+│       │
 │       ├── deleteBlogs
 │       │   ├── deleteBlogs.js
 │       │   ├── db.js
 │       │   └── package.json
-|       |
+│       │
 │       ├── getBlogs
 │       │   ├── getBlogs.js
 │       │   ├── db.js
@@ -153,8 +153,8 @@ blogs-backend/
 │           ├── updateBlogs.js
 │           ├── db.js
 │           └── package.json
-|
-|── .env
+│
+│── .env
 │── .gitignore
 └── project.yml
 ```
