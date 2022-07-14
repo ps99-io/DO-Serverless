@@ -120,7 +120,7 @@ DB_URI=your_databases_connection_string
 The resulting file should look something like this:
 
 ```sh
-DATABASE_URL=mongodb+srv://doadmin:<replace-with-your-password>@Blogs-ef8398b6.mongo.ondigitalocean.com/Blog?tls=true&authSource=admin&replicaSet=Blogs
+DB_URI=mongodb+srv://doadmin:<replace-with-your-password>@Blogs-ef8398b6.mongo.ondigitalocean.com/Blog?tls=true&authSource=admin&replicaSet=Blogs
 ```
 Once you’ve defined the variable, save the file and close it.
 
