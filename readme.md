@@ -85,7 +85,7 @@ Click <b>Connect</b>. MongoDB Compass connects to the cluster.
 
 <h2 align="center">Part 2 - Add Serverless Functions to App </h2>
 
-In this part of the tutorial series, you will:
+In this part of the tutorial, you will:
 
 - Configure the app’s environment variables.
 - Add Node.js functions to the app that connect to the MongoDB database.
