@@ -57,7 +57,7 @@ To create a MongoDB database from the DigitalOcean Control Panel, click the Crea
 
 <img src="./Images/DB_Cluster_Creation.png">
 
-On the database creation page, select MongoDB in the Choose a database engine section. In the Choose a name field, name the database ```Blog```. The sample code in the rest of this tutorial series expects the database to have this name.
+On the database creation page, select MongoDB in the Choose a database engine section. In the Choose a name field, name the database ```Blogs```. The sample code in the rest of this tutorial series expects the database to have this name.
 
 Leave the rest of the configuration options on their default settings and then click Create a Database Cluster to deploy the cluster. This may take several minutes to complete.
 
