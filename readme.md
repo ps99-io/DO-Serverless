@@ -490,7 +490,7 @@ You can copy and paste the returned URL into your API testing platform to test t
 <img align="center" alt="GIF" width="300px" height="300px" src="./Images/relaxed.gif" />
 
 
-<h2 align="center">Part 2 - Add Serverless Functions to App </h2>
+<h2 align="center">Part 3: Connect the serverless functions to the static website and deploy the site to App Platform. </h2>
 
 
 
