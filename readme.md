@@ -21,7 +21,6 @@ The series consists of three parts:
 
 - 1️⃣ : Deploy a MongoDB database from the DigitalOcean Control Panel.
 - 2️⃣ : Set up serverless functions and connect them to the database.
-- 3️⃣ : Connect the serverless functions to the web app and deploy the site to App Platform.
 
 ## About the Application
 The application in this tutorial is an Blogs application with the following functionality:
