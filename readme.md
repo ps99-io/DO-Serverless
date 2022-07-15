@@ -271,7 +271,7 @@ After pasting the code into the file, save the file and close it.
 
 ```sh
 ℹ️ Note : 
-1. The ```db.js``` file will be same for the all the individual directory.
+1. The db.js file will be same for the all the individual directory.
 2. The project structure is already mentioned above for the reference.
 ```
 
