@@ -17,7 +17,7 @@ Using serverless functions can make applications more lightweight and secure. Be
 In this tutorial series, you will deploy a Blogs website that uses DigitalOcean Functions to retrieve and post data to a [MongoDB database](https://github.com/docs.digitalocean.com/products/databases/mongodb/)
 
 ## 🗒 Content
-The series consists of three parts:
+The series consists of two parts:
 
 - 1️⃣ : Deploy a MongoDB database from the DigitalOcean Control Panel.
 - 2️⃣ : Set up serverless functions and connect them to the database.
