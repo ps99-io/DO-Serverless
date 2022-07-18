@@ -484,7 +484,7 @@ doctl sls functions invoke blogs/getBlogs
 To retrieve the function’s URL, use the ```serverless functions``` get command with the ```--url``` flag or you can retrieve it from Digital Ocean Function's control panel:
 
 ```sh
-doctl serverless functions get cloud/getBlogs --url
+doctl serverless functions get blogs/getBlogs --url
 ```
 You can copy and paste the returned URL into your API testing platform to test the function execution and verify response.
 
