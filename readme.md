@@ -35,6 +35,7 @@ What tech it uses needs to be written over here
 <img src="./Images/Landing Page.png">
 <img src="./Images/Landing Page 2.png">
 <img src="./Images/Write Blogs.png">
+<img src="./Images/New Blog created.png">
 <img src="./Images/Update Blogs.png">
 
 <h2 align="center">Tutorial</h2>
