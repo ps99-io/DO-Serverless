@@ -30,9 +30,10 @@ The application in this tutorial is an Blogs application with the following func
 - Yet to be written.
 
 What tech it uses needs to be written over here
+## Sample Image
 
-<!-- ## Sample Images -->
-<!-- <img src="image link to be provided"> -->
+<img src="./Images/Landing Page.png">
+<img src="./Images/Landing Page 2.png">
 
 <h2 align="center">Tutorial</h2>
 
