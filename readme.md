@@ -23,13 +23,13 @@ The series consists of two parts:
 - 2️⃣ : Set up serverless functions and connect them to the database.
 
 ## About the Application
-The application in this tutorial is an Blogs application with the following functionality:
+The application in this tutorial is a simple  Blogs application with the CRUD functionality:
 
-- Yet to be written.
+- You can create blogs with title and body.
+- You can view all the blogs created.
+- You can update all the blogs created.
+- You can delete all the blogs created.
 
-- Yet to be written.
-
-What tech it uses needs to be written over here
 ## Sample Image
 
 <img src="./Images/Landing Page.png">
@@ -495,7 +495,7 @@ You can copy and paste the returned URL into your API testing platform to test t
 ## Serverless Tech Stacks & dependencies
 
 ##### 🌟 Frontend
-- 
+- Reactjs
 
 ##### 🌟 Backend
 - Nodejs
@@ -504,4 +504,4 @@ You can copy and paste the returned URL into your API testing platform to test t
 
 ## made with 💕 by 👨‍💻: 
 - [Preetam Sarkar](https://github.com/Leoravoe)
-- [Anil](https://github.com/)
+- [Anil](https://github.com/AnilHash)
