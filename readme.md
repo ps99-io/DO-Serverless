@@ -496,6 +496,8 @@ You can copy and paste the returned URL into your API testing platform to test t
 
 ##### 🌟 Frontend
 - Reactjs
+- Vite
+- Bootstrap
 
 ##### 🌟 Backend
 - Nodejs
