@@ -505,5 +505,5 @@ You can copy and paste the returned URL into your API testing platform to test t
 - MongoDB
 
 ## made with 💕 by 👨‍💻: 
-- [Preetam Sarkar](https://github.com/pss99-io)
+- [Preetam Sarkar](https://github.com/ps99-io)
 - [Anil](https://github.com/AnilHash)
