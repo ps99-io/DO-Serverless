@@ -496,13 +496,13 @@ You can copy and paste the returned URL into your API testing platform to test t
 
 > The following key takeaways are the most important conclusions from this guide. 
 
-> Serverless solutions provide the important benefit of cost savings because serverless is implemented in a pay-per-use model. Serverless makes it possible to independently scale, test, and deploy individual components of your application. Serverless is uniquely suited to implement microservices architectures.
+- Serverless solutions provide the important benefit of cost savings because serverless is implemented in a pay-per-use model. Serverless makes it possible to independently scale, test, and deploy individual components of your application. Serverless is uniquely suited to implement microservices architectures.
 
-> Triggers and bindings. Serverless eases integration with storage, APIs, and other cloud resources.
+- Triggers and bindings. Serverless eases integration with storage, APIs, and other cloud resources.
 
-> Microservices. The microservices architecture is becoming the preferred approach for distributed and large or complex applications. Serverless is an architecture well-suited for building these services.
+- Microservices. The microservices architecture is becoming the preferred approach for distributed and large or complex applications. Serverless is an architecture well-suited for building these services.
 
-> Serverless challenges. Serverless introduces challenges related to distributed application development, such as fragmented and independent data models, resiliency, versioning, and service discovery. Serverless may not be ideally suited to long running processes or components that benefit from tighter coupling.
+- Serverless challenges. Serverless introduces challenges related to distributed application development, such as fragmented and independent data models, resiliency, versioning, and service discovery. Serverless may not be ideally suited to long running processes or components that benefit from tighter coupling.
 
 ## Serverless Tech Stacks & dependencies
 
