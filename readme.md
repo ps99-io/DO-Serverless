@@ -532,17 +532,6 @@ Functions components in App Platform, follow [App Platform](https://docs.digital
 
 - Serverless challenges. Serverless introduces challenges related to distributed application development, such as fragmented and independent data models, resiliency, versioning, and service discovery. Serverless may not be ideally suited to long running processes or components that benefit from tighter coupling.
 
-## Serverless Tech Stacks & dependencies 
-
-##### 🌟 Frontend
-- Reactjs
-- Vite
-- Bootstrap
-
-##### 🌟 Backend
-- Nodejs
-- DigitalOcean Functions
-- MongoDB
 
 ## Future Scope 🔮
 
@@ -555,6 +544,18 @@ Webinar on more perks of [DigitalOcean Functions]() 🔥
 - Deploying Functions as a components in Digital Ocean [App Platform](https://docs.digitalocean.com/products/app-platform/).
 - Seamless connection with Digital Ocean Managed Databases through **AppSpec**.
 - Integration of unit testing.
+
+## Serverless Tech Stacks & dependencies 
+
+##### 🌟 Frontend
+- Reactjs
+- Vite
+- Bootstrap
+
+##### 🌟 Backend
+- Nodejs
+- DigitalOcean Functions
+- MongoDB
 
 ## made with 💕 by 👨‍💻: 
 - [Preetam Sarkar](https://github.com/ps99-io)
