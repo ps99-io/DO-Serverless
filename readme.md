@@ -495,13 +495,13 @@ You can copy and paste the returned URL into your API testing platform to test t
 
 <h2 align="center"> Function Specs</h2>
 
-#### Function Pricing
+#### Function Pricing 💵
 
 Functions are billed per GiB-second, which is calculated by multiplying the memory a function uses in GiB by the time it takes to execute in seconds.
 
 Each team has a free allowance of 90,000 GiB-seconds (25 GiB-hours) per month across all functions, including function components in App Platform. Additional usage beyond the free allowance is charged at $0.0000185/GiB-second ($0.0666/GiB-hour). Functions run for a minimum of 100ms per invocation.
 
-##### Basic overview of Pricing
+##### Basic overview of Pricing 💰
 
 - FREE ALLOWANCE : 25GB-hours or 90,000GB-seconds
 - OVERAGES : $0.0000185 per GB-second
@@ -532,7 +532,7 @@ Functions components in App Platform, follow [App Platform](https://docs.digital
 
 - Serverless challenges. Serverless introduces challenges related to distributed application development, such as fragmented and independent data models, resiliency, versioning, and service discovery. Serverless may not be ideally suited to long running processes or components that benefit from tighter coupling.
 
-## Serverless Tech Stacks & dependencies
+## Serverless Tech Stacks & dependencies 
 
 ##### 🌟 Frontend
 - Reactjs
@@ -543,6 +543,18 @@ Functions components in App Platform, follow [App Platform](https://docs.digital
 - Nodejs
 - DigitalOcean Functions
 - MongoDB
+
+## Future Scope 🔮
+
+Webinar on more perks of [DigitalOcean Functions]() 🔥
+
+#### what is included in the webinar❓🤨
+
+**Content**
+- Integration of IaC with [Digital Ocean AppSpec](https://docs.digitalocean.com/products/app-platform/reference/app-spec/) in this existing code base.
+- Deploying Functions as a components in Digital Ocean [App Platform](https://docs.digitalocean.com/products/app-platform/).
+- Seamless connection with Digital Ocean Managed Databases through **AppSpec**.
+- Integration of unit testing.
 
 ## made with 💕 by 👨‍💻: 
 - [Preetam Sarkar](https://github.com/ps99-io)
