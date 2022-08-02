@@ -33,7 +33,7 @@ module.exports.main = async (args) => {
     }catch (err) {
         console.log(err);
         return{
-            status: 500,
+            statusCode: 500,
             body: err.message
         }
     }

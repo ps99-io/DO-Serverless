@@ -27,13 +27,13 @@ module.exports.main = async (args) => {
             };
         }else{
             return {
-                status: 204
+                statusCode: 204
             }
         }
     }catch (err) {
         console.log(err);
         return{
-            status: 500,
+            statusCode: 500,
             body: err.message
         }
     }
