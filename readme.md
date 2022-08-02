@@ -504,7 +504,7 @@ You can copy and paste the returned URL into your API testing platform to test t
 <img align="center" alt="GIF" width="300px" height="300px" src="./Images/relaxed.gif" />
 
 
-<h2 align="center"> Function Specs</h2>
+<h2 align="center"> Digital Ocean Function Specs</h2>
 
 #### Function Pricing 💵
 
