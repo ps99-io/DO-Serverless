@@ -506,7 +506,7 @@ You can copy and paste the returned URL into your API testing platform to test t
 
 <h2 align="center"> Digital Ocean Function Specs</h2>
 
-#### Function Pricing 💵
+### Function Pricing 💵
 
 Functions are billed per GiB-second, which is calculated by multiplying the memory a function uses in GiB by the time it takes to execute in seconds.
 
@@ -519,7 +519,7 @@ Each team has a free allowance of 90,000 GiB-seconds (25 GiB-hours) per month ac
 
 Functions components in App Platform, follow [App Platform](https://docs.digitalocean.com/products/app-platform/details/pricing/) pricing, including bandwidth.
 
-#### Function Configurations
+### Function Configurations
 
 - MEMORY
     - 128MB - 1GB  (256MB default)
