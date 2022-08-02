@@ -14,7 +14,18 @@
 ## 🎖 Perks of Serverless architecture 🎖
 Using serverless functions can make applications more lightweight and secure. Because you only pay for DigitalOcean Functions when a function runs, serverless architecture is often less expensive for apps with variable levels of traffic.
 
-In this tutorial series, you will deploy a Blogs website that uses DigitalOcean Functions to retrieve and post data to a [MongoDB database](https://github.com/docs.digitalocean.com/products/databases/mongodb/)
+#### Key Features
+
+- **Unified experience for serverfull and serverless**
+    - Build apps that require long-running servers and on-demand functions, with an integrated experience and workflow. Easily extend existing applications with new serverless functionalities.
+- **Seamless integration with Managed Databases**
+    - If you’re building an app that needs a database, you can easily add a managed database in the app creation process. Connections between the apps and databases are secure with features such as trusted sources.
+- **Test your functions with Functions developer console**
+    - Develop functions locally using your favorite editors and IDEs, ship quickly to the cloud, and live-preview your functions before committing your code to GitHub or GitLab and deploying to your app in production.
+- **Support for common languages and runtimes**
+    - Out-of-the-box support for many popular runtimes, **including Node.js, Python, Go, and PHP**. Automatic patches and updates to ensure the execution environment is stable and secure.
+
+#### In this tutorial series, you will deploy a Blogs website that uses DigitalOcean Functions to retrieve and post data to a [MongoDB database](https://github.com/docs.digitalocean.com/products/databases/mongodb/)
 
 ## 🗒 Content
 The series consists of two parts:
