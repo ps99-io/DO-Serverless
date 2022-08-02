@@ -32,7 +32,7 @@ The application in this tutorial is a simple  Blogs application with the CRUD fu
 
 ## Sample Image
 
-<img src="./Images/Landing Page.png">
+<img src="/Images/Landing Page.png">
 <!-- <img src="./Images/Landing Page 2.png">
 <img src="./Images/Write Blogs.png">
 <img src="./Images/New Blog created.png">
