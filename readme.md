@@ -1,6 +1,6 @@
 <h1 align="center" id="DO-Serverless"> Digital Ocean Serverless</h1>
 
-<h1 align="center" id="CB-Swap"> Blog application </h1>
+<h1 align="center" id="Blog-Application"> Blog application </h1>
 
 <h2 align="center"> Build application using Digital Ocean Functions</h2>
 
@@ -491,6 +491,34 @@ You can copy and paste the returned URL into your API testing platform to test t
 # Finally you're done with succcessfully deploying and testing the functions...... Phewwww!!!!
 
 <img align="center" alt="GIF" width="300px" height="300px" src="./Images/relaxed.gif" />
+
+
+<h2 align="center"> Function Specs</h2>
+
+#### Function Pricing
+
+Functions are billed per GiB-second, which is calculated by multiplying the memory a function uses in GiB by the time it takes to execute in seconds.
+
+Each team has a free allowance of 90,000 GiB-seconds (25 GiB-hours) per month across all functions, including function components in App Platform. Additional usage beyond the free allowance is charged at $0.0000185/GiB-second ($0.0666/GiB-hour). Functions run for a minimum of 100ms per invocation.
+
+##### Basic overview of Pricing
+
+- FREE ALLOWANCE : 25GB-hours or 90,000GB-seconds
+- OVERAGES : $0.0000185 per GB-second
+
+Functions components in App Platform, follow [App Platform](https://docs.digitalocean.com/products/app-platform/details/pricing/) pricing, including bandwidth.
+
+#### Function Configurations
+
+- MEMORY
+    - 128MB - 1GB  (256MB default)
+- DURATION
+    - Up to 5 seconds per invocation
+- INVOCATIONS
+    - Up to 600 per minute
+- CONCURRENCY
+    - Up to 120
+
 
 ## Conclusion 
 
