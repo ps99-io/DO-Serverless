@@ -522,7 +522,7 @@ Functions components in App Platform, follow [App Platform](https://docs.digital
 
 ## Conclusion 
 
-> The following key takeaways are the most important conclusions from this guide. 
+**The following key takeaways are the most important conclusions from this guide:**
 
 - Serverless solutions provide the important benefit of cost savings because serverless is implemented in a pay-per-use model. Serverless makes it possible to independently scale, test, and deploy individual components of your application. Serverless is uniquely suited to implement microservices architectures.
 
