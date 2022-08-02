@@ -33,10 +33,10 @@ The application in this tutorial is a simple  Blogs application with the CRUD fu
 ## Sample Image
 
 <img src="/Images/Landing Page.png">
-<!-- <img src="./Images/Landing Page 2.png">
-<img src="./Images/Write Blogs.png">
-<img src="./Images/New Blog created.png">
-<img src="./Images/Update Blogs.png"> -->
+<img src="/Images/Landing Page 2.png">
+<img src="/Images/Write Blogs.png">
+<img src="/Images/New Blog created.png">
+<img src="/Images/Update Blogs.png">
 
 <h2 align="center">Tutorial</h2>
 
@@ -58,7 +58,7 @@ To begin setting up the application, you need to create a database to store the 
 
 To create a MongoDB database from the DigitalOcean Control Panel, click the Create button in the top right of the screen, then select Databases from the drop-down menu.
 
-<!-- <img src="./Images/DB_Cluster_Creation.png"> -->
+<img src="/Images/DB_Cluster_Creation.png">
 
 On the database creation page, select MongoDB in the Choose a database engine section. In the Choose a name field, name the database ```Blogs```. The sample code in the rest of this tutorial series expects the database to have this name.
 
@@ -68,7 +68,7 @@ Once the cluster has been created, you need to create a new database in the clus
 
 Once you’ve created the new database, click the Overview tab and locate the CONNECTION DETAILS section. This section contains your database’s connection credentials.
 
-<!-- <img src="./Images/DB_Connection_Details.png"> -->
+<img src="/Images/DB_Connection_Details.png">
 
 Next, in the Connection Parameters drop-down menu, click Connection string. In the Database drop-down menu, click the ```Blogs``` database. The CONNECTION DETAILS section populates with a connection string you can provide to MongoDB Compass to connect to the database cluster. Copy the string to connect to the database in the next step.
 
@@ -81,7 +81,7 @@ Next, in the Connection Parameters drop-down menu, click Connection string. In t
 
 To connect to the database cluster, open MongoDB Compass on your local machine. On the New Connection screen, paste the cluster’s connection string into the URI field, replacing the ```<replace-with-your-password>``` value with your database’s password.
 
-<!-- <img src="./Images/DB_Compass_Connection.png"> -->
+<img src="/Images/DB_Compass_Connection.png">
 
 
 Click <b>Connect</b>. MongoDB Compass connects to the cluster.
