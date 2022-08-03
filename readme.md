@@ -570,4 +570,4 @@ Webinar on more perks of [DigitalOcean Functions]() 🔥
 
 ## made with 💕 by 👨‍💻: 
 - [Preetam Sarkar](https://github.com/ps99-io)
-<!-- - [Anil](https://github.com/AnilHash) -->
+- [Anil](https://github.com/AnilHash)
