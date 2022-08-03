@@ -1,6 +1,6 @@
-<h1 align="center" id="DO-Serverless"> Serverless Blog application</h1>
+<h1 align="center" id="DO-Serverless"> Digital Ocean Serverless</h1>
 
-<!-- <h1 align="center" id="Blog-Application">  </h1> -->
+<h1 align="center" id="Blog-Application"> Blog application </h1>
 
 <h2 align="center"> Build application using Digital Ocean Functions</h2>
 
