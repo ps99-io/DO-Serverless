@@ -11,12 +11,12 @@
 ## What is DigitalOcean Functions❓
 > DigitalOcean Functions allow you to deploy pieces of functionality that can perform the same tasks as a traditional API without the requirement of setting up a server to manage the requests. For example, you can write a traditional Node.js function that returns a list of products from a database and then deploy that function to the Functions service. Once deployed, users and applications can retrieve data from the database by making an HTTP request to the function’s URL.
 
-## 🎖 Perks of Digital Ocean Serverless architecture 🎖
+## 🎖 Perks of DigitalOcean Serverless architecture 🎖
 Using serverless functions can make applications more lightweight and secure. Because you only pay for DigitalOcean Functions when a function runs, serverless architecture is often less expensive for apps with variable levels of traffic.
 
 #### Key Features
 
-- **Unified experience for serverfull and serverless**
+- **Unified experience for server-full and serverless**
     - Build apps that require long-running servers and on-demand functions, with an integrated experience and workflow. Easily extend existing applications with new serverless functionalities.
 - **Seamless integration with Managed Databases**
     - If you’re building an app that needs a database, you can easily add a managed database in the app creation process. Connections between the apps and databases are secure with features such as trusted sources.
