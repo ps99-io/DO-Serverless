@@ -504,17 +504,17 @@ You can copy and paste the returned URL into your API testing platform to test t
 <img align="center" alt="GIF" width="300px" height="300px" src="./Images/relaxed.gif" />
 
 
-<h2 align="center"> Digital Ocean Function Specs</h2>
+<h2 align="center"> DigitalOcean Function Specs</h2>
 
-### Function Pricing 💵
+### [Function Pricing <img src = "./Images/pngwing.png" alt="Redirect Icon" width="15px" height="15px"/>](https://www.digitalocean.com/pricing/functions)
 
-Functions are billed per GiB-second, which is calculated by multiplying the memory a function uses in GiB by the time it takes to execute in seconds.
+Functions are billed per GB-second, which is calculated by multiplying the memory a function uses in GB by the time it takes to execute in seconds.
 
-Each team has a free allowance of 90,000 GiB-seconds (25 GiB-hours) per month across all functions, including function components in App Platform. Additional usage beyond the free allowance is charged at $0.0000185/GiB-second ($0.0666/GiB-hour). Functions run for a minimum of 100ms per invocation.
+Each team has a free allowance of 90,000 GB-seconds (25 GB-hours) per month across all functions, including function components in App Platform. Additional usage beyond the free allowance is charged at $0.0000185/GB-second. Functions run for a minimum of 100ms per invocation.
 
-##### Basic overview of Pricing 💰
+##### Basic overview of Pricing 💰💵
 
-- FREE ALLOWANCE : 25GB-hours or 90,000GB-seconds
+- FREE ALLOWANCE : 90,000GB-seconds
 - OVERAGES : $0.0000185 per GB-second
 
 Functions components in App Platform, follow [App Platform](https://docs.digitalocean.com/products/app-platform/details/pricing/) pricing, including bandwidth.
@@ -524,7 +524,7 @@ Functions components in App Platform, follow [App Platform](https://docs.digital
 - MEMORY
     - 128MB - 1GB  (256MB default)
 - DURATION
-    - Up to 5 seconds per invocation
+    - Up to 30 seconds per invocation
 - INVOCATIONS
     - Up to 600 per minute
 - CONCURRENCY
@@ -552,8 +552,8 @@ Webinar on more perks of [DigitalOcean Functions]() 🔥
 
 **Content**
 - Integration of IaC with [Digital Ocean AppSpec](https://docs.digitalocean.com/products/app-platform/reference/app-spec/) in this existing code base.
-- Deploying Functions as a components in Digital Ocean [App Platform](https://docs.digitalocean.com/products/app-platform/).
-- Seamless connection with Digital Ocean Managed Databases through **AppSpec**.
+- Deploying Functions as a components in DigitalOcean [App Platform](https://docs.digitalocean.com/products/app-platform/).
+- Seamless connection with DigitalOcean Managed Databases through **AppSpec**.
 - Integration of unit testing.
 
 ## Serverless Tech Stacks & dependencies 
