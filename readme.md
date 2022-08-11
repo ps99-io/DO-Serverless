@@ -1,15 +1,15 @@
-<h1 align="center" id="DO-Serverless"> Digital Ocean Serverless</h1>
+<h1 align="center" id="DO-Serverless"> DigitalOcean Serverless</h1>
 
 <h1 align="center" id="Blog-Application"> Blog application </h1>
 
-<h2 align="center"> Build application using Digital Ocean Functions</h2>
+<h2 align="center"> Build an application using DigitalOcean Functions</h2>
 
 
 ## What is Serverless or Faas❓
-> Serverless architecture is a way to build web applications and services without managing backend infrastructure. In a serverless architecture, cloud providers like DigitalOcean provision, manage, and scale the backend servers and components required to host applications so you can focus on writing and deploying code instead of maintaining the servers that host your applications.
+> Serverless architecture is a way to build web applications and services without managing backend infrastructure. In a serverless architecture, cloud providers like DigitalOcean provision, manage, and scale the backend servers and components required to host applications so you can focus on writing and deploying code instead of maintaining the infrastructure that host your applications.
 
 ## What is DigitalOcean Functions❓
-> DigitalOcean Functions allow you to deploy pieces of functionality that can perform the same tasks as a traditional API without the requirement of setting up a server to manage the requests. For example, you can write a traditional Node.js function that returns a list of products from a database and then deploy that function to the Functions service. Once deployed, users and applications can retrieve data from the database by making an HTTP request to the function’s URL.
+> [DigitalOcean Functions](https://www.digitalocean.com/products/functions) is a fast, scalable, and cost-effective serverless compute solution that enables you to build quickly, scale automatically, and save costs by removing the need to pay for idle resources. Functions are snippets of code that run in response to event-based triggers, and it allows developers to create serverless functions for a variety of purposes, including serverless APIs for your web apps and mobile apps. For example, you can write a traditional Node.js function that returns a list of products from a database and then deploy that function to the Functions service. Once deployed, users and applications can retrieve data from the database by making an HTTP request to the function’s URL.
 
 ## 🎖 Perks of DigitalOcean Serverless architecture 🎖
 Using serverless functions can make applications more lightweight and secure. Because you only pay for DigitalOcean Functions when a function runs, serverless architecture is often less expensive for apps with variable levels of traffic.
