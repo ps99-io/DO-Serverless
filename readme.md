@@ -549,7 +549,7 @@ Webinar on more perks of [DigitalOcean Functions]() 🔥
 #### what is included in the webinar❓🤨
 
 **Content**
-- Integration of IaC with [Digital Ocean AppSpec](https://docs.digitalocean.com/products/app-platform/reference/app-spec/) in this existing code base.
+- Integration of IaC with [DigitalOcean AppSpec](https://docs.digitalocean.com/products/app-platform/reference/app-spec/) in this existing code base.
 - Deploying Functions as a components in DigitalOcean [App Platform](https://docs.digitalocean.com/products/app-platform/).
 - Seamless connection with DigitalOcean Managed Databases through **AppSpec**.
 - Integration of unit testing.
